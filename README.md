@@ -1,5 +1,5 @@
 # demo
-Dette er et prosjekt med fult fokus og null bullshit.
+Dette er et prosjekt med bullshit.
 Husk også:
 
-IN IT FOR THE MONEY!
+LOGG UT AV ALT NÅR DU BRUKER LINUX!
